@@ -1,0 +1,4 @@
+D:\Core Examples\TourOfHeroesApi\Models\obj\Debug\netstandard2.0\Models.csprojAssemblyReference.cache
+D:\Core Examples\TourOfHeroesApi\Models\obj\Debug\netstandard2.0\Models.csproj.CoreCompileInputs.cache
+D:\Core Examples\TourOfHeroesApi\Models\obj\Debug\netstandard2.0\Models.AssemblyInfoInputs.cache
+D:\Core Examples\TourOfHeroesApi\Models\obj\Debug\netstandard2.0\Models.AssemblyInfo.cs

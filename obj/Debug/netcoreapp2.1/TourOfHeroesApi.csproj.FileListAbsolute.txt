@@ -1,0 +1,14 @@
+D:\Core Examples\TourOfHeroesApi\bin\Debug\netcoreapp2.1\TourOfHeroesApi.deps.json
+D:\Core Examples\TourOfHeroesApi\bin\Debug\netcoreapp2.1\TourOfHeroesApi.runtimeconfig.json
+D:\Core Examples\TourOfHeroesApi\bin\Debug\netcoreapp2.1\TourOfHeroesApi.runtimeconfig.dev.json
+D:\Core Examples\TourOfHeroesApi\bin\Debug\netcoreapp2.1\TourOfHeroesApi.dll
+D:\Core Examples\TourOfHeroesApi\bin\Debug\netcoreapp2.1\TourOfHeroesApi.pdb
+D:\Core Examples\TourOfHeroesApi\obj\Debug\netcoreapp2.1\TourOfHeroesApi.csprojAssemblyReference.cache
+D:\Core Examples\TourOfHeroesApi\obj\Debug\netcoreapp2.1\TourOfHeroesApi.csproj.CoreCompileInputs.cache
+D:\Core Examples\TourOfHeroesApi\obj\Debug\netcoreapp2.1\TourOfHeroesApi.RazorAssemblyInfo.cache
+D:\Core Examples\TourOfHeroesApi\obj\Debug\netcoreapp2.1\TourOfHeroesApi.RazorAssemblyInfo.cs
+D:\Core Examples\TourOfHeroesApi\obj\Debug\netcoreapp2.1\TourOfHeroesApi.AssemblyInfoInputs.cache
+D:\Core Examples\TourOfHeroesApi\obj\Debug\netcoreapp2.1\TourOfHeroesApi.AssemblyInfo.cs
+D:\Core Examples\TourOfHeroesApi\obj\Debug\netcoreapp2.1\TourOfHeroesApi.RazorTargetAssemblyInfo.cache
+D:\Core Examples\TourOfHeroesApi\obj\Debug\netcoreapp2.1\TourOfHeroesApi.dll
+D:\Core Examples\TourOfHeroesApi\obj\Debug\netcoreapp2.1\TourOfHeroesApi.pdb
